@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+
+}
+
+div {
+  padding: 25px 50px 75px;
+}
+
+#first {
+color: green;
+font-weight: bold;
+}
